@@ -37,8 +37,8 @@ function decrement(n) {
 
 
 function makeInt(string) {
-  parseInt('n', 10)
-  return(string)
+  return parseInt('n', 10)
+
 }
 
 function preserveDecimal(string) {
